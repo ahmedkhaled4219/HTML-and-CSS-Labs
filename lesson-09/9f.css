@@ -1,0 +1,37 @@
+p {
+    
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  
+  #main {
+    width: 150px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  }
+  #picture {
+      margin-bottom: 10px;
+      object-fit: cover;
+      width: 150px;
+      height: 150px;
+  }
+  #name {
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 6px;
+    margin-bottom: 4px;
+  }
+  #friends {
+    color: #6F6F6F;
+    margin-left: 6px;
+    margin-bottom: 10px;
+  }
+  button {
+    background-color:#3975EA;
+    color: white;
+    border: none;
+    padding:10px 20px ;
+    border-radius: 4px;
+    font-size: 16px;
+    margin-left: 6px;
+    margin-bottom: 10px;
+  }

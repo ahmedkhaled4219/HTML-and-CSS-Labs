@@ -1,0 +1,58 @@
+p {
+    
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  #mygrid {
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    column-gap: 20px;
+  }
+  #main {
+    width: 150px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    display: inline-block;
+    margin-right: 10px;  
+}
+  #picture {
+      margin-bottom: 10px;
+      object-fit: cover;
+      width: 150px;
+      height: 150px;
+  }
+  #friendpic{
+    height: 20px;
+    width: 20px;
+    object-fit: cover;
+    border-radius: 50%;
+    vertical-align: middle;
+    margin-right: 3px;
+  }
+  #name {
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 6px;
+    margin-bottom: 4px;
+  }
+  #mutual{
+    display: grid;
+    grid-template-columns: 30px 1fr;
+    align-items: center;
+    margin-left: 6px;
+    margin-bottom: 10px;
+  }
+  #friends {
+    color: #6F6F6F;
+    margin-left: 6px;
+    margin-bottom: 10px;
+  }
+  button {
+    background-color:#3975EA;
+    color: white;
+    border: none;
+    padding:10px 20px ;
+    border-radius: 4px;
+    font-size: 16px;
+    margin-left: 6px;
+    margin-bottom: 10px;
+  }

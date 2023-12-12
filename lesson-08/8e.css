@@ -1,0 +1,26 @@
+p{
+    font-weight: bold;
+    font-size: larger;
+    margin-bottom: 15px;
+}
+input{
+    display: block;
+    margin-bottom: 5px;
+   background-color: #F0F0F0;
+   border: none;
+   padding: 5px 20px;
+  width: 200px;
+}
+button{
+    border: none;
+    padding: 10px;
+   margin-top: 10px;
+}
+#b1{
+    color: white;
+    background-color: black;
+}
+#b2{
+    color: black;
+    background-color: #F0F0F0;
+}
