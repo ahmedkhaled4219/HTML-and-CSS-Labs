@@ -1,0 +1,22 @@
+.bar{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 5px 10px;
+    color: white;
+    background-color: #7253AC;
+}
+.search{
+    background-color: white;
+    width: 600px;
+    border-radius: 15px;
+    border: none;
+    padding: 3px 15px;
+}
+button{
+    border: 1px solid white;
+    color: white;
+    background-color: #7253AC;
+    padding: 8px;
+}

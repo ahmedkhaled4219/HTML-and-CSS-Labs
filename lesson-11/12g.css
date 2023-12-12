@@ -1,0 +1,40 @@
+.line{
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+    flex-direction: row;
+    align-items: center;
+}
+.name{
+    font-weight: bold;
+   font-size: large;
+}
+.about{
+    color: #909090;
+    font-size: medium;
+}
+.popular{
+    color: #909090;
+    font-size: small;
+}
+.picture{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 10px;
+}
+.box{
+    width: 150px;
+}
+button{
+    border: none;
+    color: white;
+    font-weight: bold;
+    background-color: #4193EF;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+p{
+    margin: 0px 5px;
+}

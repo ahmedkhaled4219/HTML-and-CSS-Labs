@@ -1,0 +1,18 @@
+#main{
+    border: 1px solid #D3D3D3;
+    width: 400px;
+}
+#flexbox{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;   
+    padding: 5px 15px;
+}
+#noti{
+    background-color: #416CEC;
+    color: white;
+    font-weight: bold;
+    border-radius: 15px ;
+    padding: 5px 10px;
+}
