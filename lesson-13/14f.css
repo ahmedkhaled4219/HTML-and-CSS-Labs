@@ -1,0 +1,42 @@
+body{
+    height: 3000px;
+}
+#first{
+    position: fixed;
+    background-color: #202225;
+    top: 0;
+    bottom: 0;
+    left: 0;
+
+}
+img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+    object-fit: cover;
+    display: block;
+}
+#second{
+    position: fixed;
+    background-color: #303136;
+    top: 0;
+    bottom: 0;
+    padding: 15px;
+    left: 50px;
+    width: 200px;
+}
+#top{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+p{
+    color:#929292;
+    font-size: large;
+    margin-top: 3px;
+}
+#info{
+    color: white;
+}

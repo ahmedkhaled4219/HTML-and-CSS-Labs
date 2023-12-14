@@ -1,0 +1,40 @@
+body{
+    height: 3000px;
+}
+#bar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    padding: 15px 5px;
+}
+img{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    object-fit: cover;
+
+}
+#first{
+display: flex;
+align-items: center;
+}
+#add{
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    background-color: #3872DC;
+}
+#message{
+    color: black;
+    font-weight: bold;
+    border-radius: 5px;
+    padding: 5px 10px;
+    border: none;
+    background-color: #D3D3D3;
+}

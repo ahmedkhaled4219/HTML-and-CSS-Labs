@@ -1,0 +1,32 @@
+body{
+    height: 3000px;
+}
+#sidebar{
+    background-color: green;
+    color: white;
+    position: fixed;
+    width: 200px;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    text-align: center;  
+}
+#overlay{
+    background-color: rgba(0, 0, 0, 0.8);
+    position: fixed;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    top: 0px;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
+#modal{
+    background-color: white;
+    border: 3px solid ;
+    border-radius: 10px;
+    width: 400px;
+    height: 150px;
+      
+}
