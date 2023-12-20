@@ -1,0 +1,23 @@
+.box{
+    display: flex;
+    flex-direction: row;
+    height: 40px;
+}
+.element1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    background-color: #F4B9C1;
+    width: 100px;
+}
+.element2{
+    width: 200px;
+    background-color: #B6D7E4;
+}
+.item1{
+    color: white;
+    background-color: black;
+    height: 20px;
+    margin-top: 10px;
+}
